@@ -10,5 +10,5 @@
 
 [![Build Status](https://travis-ci.com/kirbyydoge/myDemoApp.svg?branch=master)](https://travis-ci.com/kirbyydoge/myDemoApp)
 
-Demo site: https://intense-brushlands-02331.herokuapp.com/
+Demo site: https://intense-brushlands-02331.herokuapp.com/compute
 
