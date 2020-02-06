@@ -9,3 +9,6 @@
     Yukaridaki method icin 5 test case icerir.
 
 [![Build Status](https://travis-ci.com/kirbyydoge/myDemoApp.svg?branch=master)](https://travis-ci.com/kirbyydoge/myDemoApp)
+
+Demo site: https://intense-brushlands-02331.herokuapp.com/
+
